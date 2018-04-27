@@ -12,5 +12,5 @@
 * depth completion:  
 -- input: sparse raw depth data, RGB image(optional), ground truth (still sparse but denser than the raw data)  
 -- output: dense depth map  
--- dataset  
+-- dataset: [KITTI](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_completion)  
 
