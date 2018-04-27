@@ -5,7 +5,8 @@
 -- input: RGB image, ground truth  
 -- output: dense depth map  
 -- dataset  
--- metrics:  
+-- metrics:   
+![metrics](data/metric.png)
 
 
 * depth completion:  
